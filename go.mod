@@ -4,7 +4,6 @@ go 1.22.2
 
 require (
 	github.com/minio/minio-go/v7 v7.0.70
-	github.com/paw1a/eschool v0.0.0-20240516102454-93f4b50e1128
 	github.com/paw1a/eschool-core v0.0.0-20240516124202-db1b1bb8e38d
 	github.com/pkg/errors v0.9.1
 	github.com/stretchr/testify v1.9.0
